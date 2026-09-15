@@ -7,6 +7,7 @@ Estou desenvolvendo meus conhecimentos por meio de estudos, exercícios e projet
 ### Atualmente estudando
 
 - Desenvolvimento Web
+- Linux | Arch Linux
 - Python
 - SQL
 - Git e GitHub
