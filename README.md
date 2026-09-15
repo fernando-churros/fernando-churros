@@ -1,4 +1,4 @@
-# Olá, eu sou Fernando
+# Em algum momento isso vai funcionar.
 
 Sou estudante de programação, atualmente focado em **Desenvolvimento Web, Python e SQL**.
 
